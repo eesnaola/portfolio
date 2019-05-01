@@ -1,34 +1,25 @@
 jQuery(document).ready(function($) {
-
-
+  
     /*======= Skillset *=======*/
-
     $('.level-bar-inner').css('width', '0');
-
     $(window).on('load', function() {
-
         $('.level-bar-inner').each(function() {
-
             var itemWidth = $(this).data('level');
-
             $(this).animate({
                 width: itemWidth
             }, 800);
-
         });
-
     });
 
     /* Bootstrap Tooltip for Skillset */
     $('.level-label').tooltip();
-
 
     /* jQuery RSS - https://github.com/sdepold/jquery-rss */
 
     $("#rss-feeds").rss(
 
         //Change this to your own rss feeds
-        "https://feeds.feedburner.com/TechCrunch/startups",
+        "http://feeds.feedburner.com/phpToday",
 
         {
         // how many entries do you want?
@@ -42,9 +33,9 @@ jQuery(document).ready(function($) {
         effect: 'slideFastSynced',
 
         // will request the API via https
-	    // default: false
-	    // valid values: false, true
-	    ssl: true,
+  	    // default: false
+  	    // valid values: false, true
+  	    ssl: true,
 
         // outer template for the html transformation
         // default: "<ul>{entries}</ul>"
