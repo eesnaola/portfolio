@@ -1,0 +1,24 @@
+{
+  "language": {
+    "en": {
+      "#birthday": "8 jan. 1994",
+      "#more_on_likedin": "More on linkedin",
+      "#present":"Present",
+      "#ixpandit_desc":"Currently working as a web developer in Fintech factory focused mainly worked in the user's experience and implementation of new services. <br> Stack: PHP, Laravel 5, Blade, MySQL, GIT, NodeJs, CI/CD & AWS.",
+      "#psicotests_desc":"Esta APP contiene tests psicológicos sobre las diversas temáticas que llegan día a día al consultorio de todo profesional de la Psicología. Su contenido es serio, pero de simple comprensión.",
+      "#weknd_desc":"Weknd is a social network designed for young people and teenagers who together build stories and show those moments within them.",
+      "#smartfarma_desc":"SmartFarma is the application that will allow you to send your medical prescriptions with photo and text to a pharmacy, all from your cell phone. You can do it completely online, from the comfort of your home, at work or wherever you are.",
+      "#about":"I’m a software developer from Argentina. I spend most of my programming time in back-end development. I have experience with all stages of the development cycle for dynamic web projects. I enjoy enabling stabilizing software performance to the highest standards. I have a strong background in software architecture, web and mobile apps. I also have experience with SEO and online advertising."
+    },
+    "es": {
+      "#birthday": "8 ene. 1994",
+      "#more_on_likedin": "Ver en linkedin",
+      "#present":"Presente",
+      "#ixpandit_desc":"Currently working as a web developer in Fintech factory focused mainly worked in the user's experience and implementation of new services. <br> Stack: PHP, Laravel 5, Blade, MySQL, GIT, NodeJs, CI/CD & AWS.",
+      "#psicotests_desc":"Esta APP contiene tests psicológicos sobre las diversas temáticas que llegan día a día al consultorio de todo profesional de la Psicología. Su contenido es serio, pero de simple comprensión.",
+      "#weknd_desc":"Weknd es una red social pensada para que los jóvenes y adolescentes no solo compartan Momentos con sus amigos, sino que juntos armen Historias y muestren esos Momentos dentro ellas.",
+      "#smartfarma_desc":"SmartFarma es la aplicación que te permitirá enviar tus recetas médicas con foto y texto, todo desde tu celular. Podrás hacerlo totalmente online, desde la comodidad de tu casa, en tu trabajo o en cualquier parte donde estés.",
+      "#about":"I’m a software developer from Argentina. I spend most of my programming time in back-end development. I have experience with all stages of the development cycle for dynamic web projects. I enjoy enabling stabilizing software performance to the highest standards. I have a strong background in software architecture, web and mobile apps. I also have experience with SEO and online advertising."
+    }
+  }
+}

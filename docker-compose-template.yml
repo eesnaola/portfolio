@@ -1,0 +1,14 @@
+dev-bio:
+ build: ./tools/docker
+ container_name: bio
+ environment:
+  - VIRTUAL_HOST=bio.vm
+ hostname: bio.vm
+ volumes:
+  - {{path}}/bio/tools/docker/bash_aliases:/home/developer/.bash_aliases
+  - {{path}}/bio:/var/www
+ extra_hosts:
+  - "bio.vm:127.0.0.1"
+ expose:
+  - 80
+  - 443
