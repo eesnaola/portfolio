@@ -666,3 +666,8 @@ a.dotted-link:hover {
     max-width: inherit;
   }
 }
+
+.justify {
+  text-align: justify;
+  text-justify: inter-word;
+}
