@@ -9,11 +9,18 @@
       "#languages":"Idiomas",
       "#spanish":"Spanish:",
       "#english":"English:",
+      "#about_me":"About Me",
+      "#skills":"Skills",
+      "#latest_projects":"Latest Projects",
+      "#work_experience":"Work Experience",
       "#ixpandit_desc":"Currently working as a web developer in Fintech factory focused mainly worked in the user's experience and implementation of new services. <br> Stack: PHP, Laravel 5, Blade, MySQL, GIT, NodeJs, CI/CD & AWS.",
+      "#fennoma_desc":"Backend and web developer mainly worked in the site architecture and implementation of mobile API. <br> Stack: PHP, Symfony 2/3, MySQL, MySQL, GIT, SVN, Twig, JS, Sass, CSS & HTML",
+      "#unaj_desc":"Web development, system and databases administration and IT infrastructure. <br> Stack: PHP, Symfony 2/3, MySQL, PostgreSQL, GIT, SVN, Twig, JS, CSS & HTML",
+      "#devsolution_desc":"Worked mainly in the development of the sales post for restaurants. <br> Stack: C#, ASP .NET, PHP, SQL Server, SVN, HTML5, JS & CSS",
       "#psicotests_desc":"Esta APP contiene tests psicológicos sobre las diversas temáticas que llegan día a día al consultorio de todo profesional de la Psicología. Su contenido es serio, pero de simple comprensión.",
       "#weknd_desc":"Weknd is a social network designed for young people and teenagers who together build stories and show those moments within them.",
       "#smartfarma_desc":"SmartFarma is the application that will allow you to send your medical prescriptions with photo and text to a pharmacy, all from your cell phone. You can do it completely online, from the comfort of your home, at work or wherever you are.",
-      "#about":"I’m a software developer from Argentina. I spend most of my programming time in back-end development. I have experience with all stages of the development cycle for dynamic web projects. I enjoy enabling stabilizing software performance to the highest standards. I have a strong background in software architecture, web and mobile apps. I also have experience with SEO and online advertising."
+      "#about":"I’m a software developer from Argentina. I spend most of my programming time in back-end development. I have experience with all stages of the development cycle for dynamic web projects. I enjoy enabling stabilizing software performance to the highest standards. I have a strong background in software architecture and development at consulting and product development organisations. I also have experience with SEO and online advertising."
     },
     "es": {
       "#birthday": "8 ene. 1994",
@@ -24,11 +31,18 @@
       "#languages":"Languages",
       "#spanish":"Español:",
       "#english":"Ingles:",
-      "#ixpandit_desc":"Currently working as a web developer in Fintech factory focused mainly worked in the user's experience and implementation of new services. <br> Stack: PHP, Laravel 5, Blade, MySQL, GIT, NodeJs, CI/CD & AWS.",
+      "#about_me":"Acerca De",
+      "#skills":"Habilidades",
+      "#work_experience":"Experiencia Laboral",
+      "#latest_projects":"Ultimos Proyectos",
+      "#ixpandit_desc":"Actualmente me encuentro trabajando en una Fintech como desarrollador web. Me enfoco principalmente en la experiencia del usuario y la implementación de nuevos servicios. <br> Stack: PHP, Laravel 5, Blade, MySQL, GIT, NodeJs, CI/CD & AWS.",
+      "#fennoma_desc":"Backend and web developer mainly worked in the site architecture and implementation of mobile API. <br> Stack: PHP, Symfony 2/3, MySQL, MySQL, GIT, SVN, Twig, JS, Sass, CSS & HTML",
+      "#unaj_desc":"Web development, system and databases administration and IT infrastructure. <br> Stack: PHP, Symfony 2/3, MySQL, PostgreSQL, GIT, SVN, Twig, JS, CSS & HTML",
+      "#devsolution_desc":"Worked mainly in the development of the sales post for restaurants. <br> Stack: C#, ASP .NET, PHP, SQL Server, SVN, HTML5, JS & CSS",
       "#psicotests_desc":"Esta APP contiene tests psicológicos sobre las diversas temáticas que llegan día a día al consultorio de todo profesional de la Psicología. Su contenido es serio, pero de simple comprensión.",
       "#weknd_desc":"Weknd es una red social pensada para que los jóvenes y adolescentes no solo compartan Momentos con sus amigos, sino que juntos armen Historias y muestren esos Momentos dentro ellas.",
       "#smartfarma_desc":"SmartFarma es la aplicación que te permitirá enviar tus recetas médicas con foto y texto, todo desde tu celular. Podrás hacerlo totalmente online, desde la comodidad de tu casa, en tu trabajo o en cualquier parte donde estés.",
-      "#about":"I’m a software developer from Argentina. I spend most of my programming time in back-end development. I have experience with all stages of the development cycle for dynamic web projects. I enjoy enabling stabilizing software performance to the highest standards. I have a strong background in software architecture, web and mobile apps. I also have experience with SEO and online advertising."
+      "#about":"Soy un desarrollador de software Argentino. Paso la mayor parte de mi tiempo en desarrollo back-end. Poseo experiencia en todas las etapas del ciclo de desarrollo de proyectos web dinámicos. Tengo una sólida formación en arquitectura y desarrollo de software, tanto en consultoría como en desarrollo de productos. También tengo experiencia en SEO y publicidad online."
     }
   }
 }
