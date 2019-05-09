@@ -19,7 +19,7 @@ jQuery(document).ready(function($) {
     $("#rss-feeds").rss(
 
         //Change this to your own rss feeds
-        "http://feeds.feedburner.com/phpToday",
+        "https://dev.to/feed/eesnaola",
 
         {
         // how many entries do you want?
