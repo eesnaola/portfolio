@@ -51,8 +51,7 @@ jQuery(document).ready(function($) {
     );
 
     /* Github Calendar - https://github.com/IonicaBizau/github-calendar */
-    new GitHubCalendar("#github-graph", "eesnaola", {
-    });
+    new GitHubCalendar("#github-graph", "eesnaola", { responsive: true });
 
     /* ekko-lightbox */
     $(document).on('click', '[data-toggle="lightbox"]', function(event) {
